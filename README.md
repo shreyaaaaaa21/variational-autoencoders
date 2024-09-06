@@ -55,7 +55,6 @@
   <h2>Contributions</h2>
     <p>Feel free to contribute to this project by submitting issues or pull requests!</p>
 
-  <h2>License</h2>
-    <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
+  
 </body>
 </html>
